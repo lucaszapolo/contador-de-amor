@@ -3,7 +3,7 @@
 Um site romântico e interativo que conta o tempo desde o início do seu namoro, com música de fundo, foto especial e design moderno.
 
 ![Contador Romântico](https://img.shields.io/badge/Status-Ativo-brightgreen)
-![Tecnologias](https://img.shields.io/badge/HTML-CSS-JavaScript-orange)
+
 
 ## ✨ Características
 
