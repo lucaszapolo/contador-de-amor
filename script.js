@@ -1,5 +1,5 @@
 // Data do início do namoro - ALTERE AQUI!
-const startDate = new Date('2024-05-21T03:00:00'); // Mude para a data real do início do namoro
+const startDate = new Date('2023-05-21T03:00:00'); // Mude para a data real do início do namoro
 
 // Elementos do DOM
 const yearsElement = document.getElementById('years');
